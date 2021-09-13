@@ -1,0 +1,21 @@
+{
+   "scene1": {
+	"continue-jedi":"You decide to try your luck with the strange poster, heading out far into the galaxy in your space ship. Maybe the quiet of deep space will help to clear your mind from all the hustle and bustle of the city.",
+	"continue-wiz": "You decide to try your luck with the strange poster, casting a spell that teleports you out to the middle of the universe... You die obviously.",
+	"continue-kni": "You decide to try your luck with the strange poster, not quite sure how to get to outer space, you decide to that the best way would be to launch yourself with a large catapault. You die."      
+},
+
+   "scene2": {
+	"meteor1":"All seems to be going well, and you begin to drift off while the ship autopilots itself to your desstination.",
+	"meteor2":"Suddenly you are abrutly awoken by the sound of the emergency alarm... Your ship is caught in a fierce geomagnetic storm!"
+   },
+
+   "scene3": {
+	"set_up":"You switch off the autopilot and attempt to pilot the ship yourself, unfortunately for you, this storm is more than a match for your piloting skills. With your ship taking ever more damage, it seems you have only two options, do you make an emergency landing on an unknown planet, or do you continue on and attempt to pilot your way through this mess?",
+  	"continue_on":"You continue on, and attempt to pilot your way to safetly. Unfortunately, despite your best efforts, your ship ends up suffering from too much damage and you die..",
+	"crash":"You realize your best hope for survival is to make an emergency landing on an alien planet. You figure that you should be able to send out a distress beacon after you safely land. Hopefully, someone will then receive your signal and notify your friends to come to your rescue.",
+     "crash2":"With great difficulty, you are able to make it to the alien planet, unfortunately, for you though, the landing is much rougher than you anticipated and you will definately not be able to repair your ship by yourself. Hopefully, you'll be rescued by your fellow Jedi soon..."
+ 
+	}
+}
+

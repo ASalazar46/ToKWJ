@@ -1,0 +1,18 @@
+{
+   "testscene": {
+	"name":"Rock",
+	"CBL":9999,
+	"examine":"Its a rock?"
+   },
+
+   "testscene2": {
+	"name":"Ryan",
+	"CBL":71,
+	"examine":"He's a weak boi."
+   },
+
+   "testscene3": {
+	"event":"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+   }
+}
+

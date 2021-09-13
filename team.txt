@@ -1,0 +1,22 @@
+Group 3
+ "Its time to kick ass and chew bubble gum, and I'm aaaallllll out of gum"
+
+Brad Connolly
+	Did the combat stuff
+
+Maile Duffy
+	Did the Ocean and Space quest story
+
+Andrew Salazar
+	Did the Forest quest story, prologue. Developed program functionality.
+
+Austin Tanaka 
+	Did the menu /  character select and dev. program functionality
+
+
+
+Thanks to to Niels Lohmann and his colleagues for developing the json files
+needed to have the story running (his stuff can be found on github; a quick
+google search of json library and click on the github link)
+
+

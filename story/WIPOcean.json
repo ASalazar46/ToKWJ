@@ -1,0 +1,14 @@
+ {
+    "scene1": { 
+	
+	"scene2":"You decide to take on the ocean quest, the flyer is rather weathered and doesn't provide a lot of information, but you are able to make out the word 'treasure,' and that alone is good enough for you.",
+  
+   "scene3":"After traveling along the coastline for somewhile, you finally arrive at your destination, a secluded seaside town. Maybe a trip to the local tavern would shed some light on nature of your quest?",
+ 
+   "scence4":"When you arrive at the tavern, you are not greeted by the usual sounds of laughter, but instead by a somber atmosphere... You decide to strike up a conversation with the local tavern keeper in order to find out what is going on. It is then you learn that village has recently come under the scourge of a mysterious monster and that people have been vanishing in the middle of the night, never to been seen again... well at least until you showed up, that is." }
+
+   "scene5":"For an experienced fighter such as yourself, this taking care of this monster should be an easy task, and you look forward to claiming the monster's treasure soon.",
+
+   "scene6":"According to the tavern keeper, no one has seen the monster but it is known that it often claims its victims near the pier during the early morning hours, around just after sunrise."  
+
+   }
